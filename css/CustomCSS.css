@@ -1,0 +1,16 @@
+#left, #middle, #right {
+	height: 600px;
+}
+
+.inner {
+	background-color: black;
+
+}
+
+body {
+	padding: 10px 10px 10px 10px;
+}
+
+div.inner.bottom {
+	height: 370px;
+}
